@@ -1,0 +1,20 @@
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\bin\Debug\net10.0-windows\Praktik 3 (6August26).exe
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\bin\Debug\net10.0-windows\Praktik 3 (6August26).deps.json
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\bin\Debug\net10.0-windows\Praktik 3 (6August26).runtimeconfig.json
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\bin\Debug\net10.0-windows\Praktik 3 (6August26).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\bin\Debug\net10.0-windows\Praktik 3 (6August26).pdb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik_3__6August26_.Form1.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik 3 (6August26).vbproj.GenerateResource.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik 3 (6August26).GeneratedMSBuildEditorConfig.editorconfig
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik 3 (6August26).AssemblyInfoInputs.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik 3 (6August26).AssemblyInfo.vb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik 3 (6August26).vbproj.CoreCompileInputs.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik 3 (6August26).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\refint\Praktik 3 (6August26).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik 3 (6August26).pdb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik 3 (6August26).genruntimeconfig.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\ref\Praktik 3 (6August26).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik_3__6August26_.Form2.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik_3__6August26_.Form3.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik_3__6August26_.Form4.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 3 (6August26)\Praktik 3 (6August26)\obj\Debug\net10.0-windows\Praktik_3__6August26_.Form5.resources

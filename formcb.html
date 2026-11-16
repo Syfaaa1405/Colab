@@ -1,0 +1,598 @@
+```html
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Form Pendaftaran Ekstrakurikuler</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #dbeafe, #eff6ff, #e0e7ff);
+            padding: 40px 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 750px;
+            margin: auto;
+            background: white;
+            padding: 35px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        /* HEADER */
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header .icon {
+            font-size: 50px;
+            margin-bottom: 10px;
+        }
+
+        .header h1 {
+            color: #1e3a8a;
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+
+        .header p {
+            color: #64748b;
+            font-size: 14px;
+        }
+
+        /* FORM */
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group>label {
+            display: block;
+            font-weight: bold;
+            color: #334155;
+            margin-bottom: 8px;
+        }
+
+        .required {
+            color: red;
+        }
+
+        input[type="text"],
+        select {
+            width: 100%;
+            padding: 12px 14px;
+            border: 2px solid #e2e8f0;
+            border-radius: 10px;
+            font-size: 14px;
+            background: #f8fafc;
+            transition: 0.3s;
+        }
+
+        input[type="text"]:focus,
+        select:focus {
+            outline: none;
+            border-color: #2563eb;
+            background: white;
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+        /* KELAS */
+        .kelas-container {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 12px;
+        }
+
+        /* RADIO */
+        .radio-container {
+            display: flex;
+            gap: 25px;
+            flex-wrap: wrap;
+        }
+
+        .radio-option {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #475569;
+            cursor: pointer;
+        }
+
+        .radio-option input {
+            accent-color: #2563eb;
+            width: 17px;
+            height: 17px;
+        }
+
+        /* EKSTRA */
+        .ekstra-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            background: #f8fafc;
+            padding: 15px;
+            border-radius: 12px;
+            border: 2px solid #e2e8f0;
+        }
+
+        .ekstra-option {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 9px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: 0.2s;
+            color: #475569;
+        }
+
+        .ekstra-option:hover {
+            background: #dbeafe;
+        }
+
+        .ekstra-option input {
+            width: 17px;
+            height: 17px;
+            accent-color: #2563eb;
+            cursor: pointer;
+        }
+
+        .counter {
+            margin-top: 8px;
+            font-size: 13px;
+            color: #64748b;
+        }
+
+        /* ERROR */
+        .error {
+            display: none;
+            color: #dc2626;
+            font-size: 13px;
+            margin-top: 8px;
+        }
+
+        /* BUTTON */
+        .button-container {
+            display: flex;
+            gap: 12px;
+            margin-top: 30px;
+        }
+
+        .button-container input {
+            flex: 1;
+            padding: 13px;
+            border: none;
+            border-radius: 10px;
+            font-size: 15px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        .btn-submit {
+            background: #2563eb;
+            color: white;
+        }
+
+        .btn-submit:hover {
+            background: #1d4ed8;
+            transform: translateY(-2px);
+        }
+
+        .btn-reset {
+            background: #e2e8f0;
+            color: #334155;
+        }
+
+        .btn-reset:hover {
+            background: #cbd5e1;
+            transform: translateY(-2px);
+        }
+
+        /* FOOTER */
+        .footer {
+            text-align: center;
+            margin-top: 25px;
+            padding-top: 20px;
+            border-top: 1px solid #e2e8f0;
+            color: #94a3b8;
+            font-size: 12px;
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 600px) {
+            .container {
+                padding: 25px 20px;
+            }
+
+            .header h1 {
+                font-size: 22px;
+            }
+
+            .kelas-container {
+                grid-template-columns: 1fr;
+            }
+
+            .ekstra-container {
+                grid-template-columns: 1fr;
+            }
+
+            .button-container {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <!-- HEADER -->
+        <div class="header">
+            <div class="icon">🎓</div>
+
+            <h1>FORM PENDAFTARAN EKSTRAKURIKULER</h1>
+
+            <p>
+                Silakan isi data diri dengan lengkap dan benar
+            </p>
+        </div>
+
+
+        <!-- FORM -->
+        <form id="formPendaftaran" action="http://rplcoders.com/proses.php" method="post">
+
+            <!-- NAMA -->
+            <div class="form-group">
+                <label for="nama">
+                    Nama Lengkap <span class="required">*</span>
+                </label>
+
+                <input type="text" id="nama" name="nama" placeholder="Isi nama lengkap Anda" required>
+            </div>
+
+
+            <!-- KELAS -->
+            <div class="form-group">
+
+                <label>
+                    Kelas <span class="required">*</span>
+                </label>
+
+                <div class="kelas-container">
+
+                    <select name="tingkat" required>
+                        <option value="">Tingkat</option>
+                        <option value="x">X</option>
+                        <option value="xi">XI</option>
+                        <option value="xii">XII</option>
+                    </select>
+
+                    <select name="jurusan" required>
+                        <option value="">Jurusan / Kelas</option>
+                        <option value="rpl1">RPL 1</option>
+                        <option value="rpl2">RPL 2</option>
+                        <option value="tkj1">TKJ 1</option>
+                        <option value="tkj2">TKJ 2</option>
+                        <option value="tkj3">TKJ 3</option>
+                        <option value="tkj4">TKJ 4</option>
+                        <option value="dpib1">DPIB 1</option>
+                        <option value="dpib2">DPIB 2</option>
+                        <option value="pspt1">PSPT 1</option>
+                        <option value="pspt2">PSPT 2</option>
+                        <option value="dkv1">DKV 1</option>
+                        <option value="dkv2">DKV 2</option>
+                        <option value="kriya">KRIYA</option>
+                        <option value="ulw1">ULW 1</option>
+                        <option value="ulw2">ULW 2</option>
+                        <option value="dpb1">DPB 1</option>
+                        <option value="dpb2">DPB 2</option>
+                        <option value="anm">ANIMASI</option>
+                        <option value="tkkr1">TKKR 1</option>
+                        <option value="tkkr2">TKKR 2</option>
+                    </select>
+
+                </div>
+            </div>
+
+
+            <!-- JENIS KELAMIN -->
+            <div class="form-group">
+
+                <label>
+                    Jenis Kelamin <span class="required">*</span>
+                </label>
+
+                <div class="radio-container">
+
+                    <label class="radio-option">
+                        <input type="radio" name="jk" value="laki-laki" required>
+
+                        Laki-laki (L)
+                    </label>
+
+                    <label class="radio-option">
+                        <input type="radio" name="jk" value="perempuan">
+
+                        Perempuan (P)
+                    </label>
+
+                </div>
+            </div>
+
+
+            <!-- EKSTRAKURIKULER -->
+            <div class="form-group">
+
+                <label>
+                    Pilih Ekstrakurikuler
+                    <span class="required">*</span>
+                </label>
+
+                <div class="ekstra-container">
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="karawitan">
+                        Karawitan
+                    </label>
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="drumband">
+                        Drumband
+                    </label>
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="jurnalistik">
+                        Jurnalistik
+                    </label>
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="pmr">
+                        PMR
+                    </label>
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="tari">
+                        Tari
+                    </label>
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="kir">
+                        KIR
+                    </label>
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="pramuka">
+                        Pramuka
+                    </label>
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="musik">
+                        Musik
+                    </label>
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="voli">
+                        Voli
+                    </label>
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="basket">
+                        Basket
+                    </label>
+
+                    <label class="ekstra-option">
+                        <input type="checkbox" name="ekstra[]" value="futsal">
+                        Futsal
+                    </label>
+
+                </div>
+
+                <div class="counter">
+                    Dipilih: <strong id="jumlahEkstra">0</strong> ekstrakurikuler
+                </div>
+
+                <div class="error" id="errorEkstra">
+                    Silakan pilih minimal 1 ekstrakurikuler.
+                </div>
+
+            </div>
+
+
+            <!-- NOMOR TELEPON -->
+            <div class="form-group">
+
+                <label for="telp">
+                    Nomor Telepon <span class="required">*</span>
+                </label>
+
+                <input type="text" id="telp" name="telp" placeholder="Contoh: 081234567890" required>
+
+                <div class="error" id="errorTelp">
+                    Nomor telepon harus berupa angka.
+                </div>
+
+            </div>
+
+
+            <!-- BUTTON -->
+            <div class="button-container">
+
+                <input type="submit" value="✓  Selesai" class="btn-submit">
+
+                <input type="reset" value="↻  Hapus" class="btn-reset">
+
+            </div>
+
+        </form>
+
+
+        <!-- FOOTER -->
+        <div class="footer">
+            Form Pendaftaran Ekstrakurikuler © 2026
+        </div>
+
+    </div>
+
+
+    <!-- JAVASCRIPT -->
+    <script>
+
+        // Mengambil elemen form
+        const form = document.getElementById("formPendaftaran");
+
+        // Mengambil semua checkbox ekstrakurikuler
+        const checkboxEkstra =
+            document.querySelectorAll('input[name="ekstra[]"]');
+
+        // Menampilkan jumlah pilihan ekstrakurikuler
+        const jumlahEkstra =
+            document.getElementById("jumlahEkstra");
+
+        // Pesan error ekstrakurikuler
+        const errorEkstra =
+            document.getElementById("errorEkstra");
+
+        // Nomor telepon
+        const telp =
+            document.getElementById("telp");
+
+        // Pesan error nomor telepon
+        const errorTelp =
+            document.getElementById("errorTelp");
+
+
+        // =====================================
+        // MENGHITUNG JUMLAH EKSTRA YANG DIPILIH
+        // =====================================
+
+        checkboxEkstra.forEach(function (checkbox) {
+
+            checkbox.addEventListener("change", function () {
+
+                let jumlah = 0;
+
+                checkboxEkstra.forEach(function (item) {
+
+                    if (item.checked) {
+                        jumlah++;
+                    }
+
+                });
+
+                jumlahEkstra.textContent = jumlah;
+
+                if (jumlah > 0) {
+                    errorEkstra.style.display = "none";
+                }
+
+            });
+
+        });
+
+
+        // =====================================
+        // VALIDASI FORM
+        // =====================================
+
+        form.addEventListener("submit", function (event) {
+
+            let jumlahDipilih = 0;
+
+            // Menghitung checkbox yang dipilih
+            checkboxEkstra.forEach(function (checkbox) {
+
+                if (checkbox.checked) {
+                    jumlahDipilih++;
+                }
+
+            });
+
+
+            // Jika belum memilih ekstrakurikuler
+            if (jumlahDipilih === 0) {
+
+                event.preventDefault();
+
+                errorEkstra.style.display = "block";
+
+                alert("Silakan pilih minimal 1 ekstrakurikuler.");
+
+                return;
+            }
+
+
+            // Validasi nomor telepon
+            const nomor = telp.value.trim();
+
+            if (!/^[0-9]+$/.test(nomor)) {
+
+                event.preventDefault();
+
+                errorTelp.style.display = "block";
+
+                alert("Nomor telepon hanya boleh berisi angka.");
+
+                telp.focus();
+
+                return;
+
+            } else {
+
+                errorTelp.style.display = "none";
+
+            }
+
+
+            // Konfirmasi sebelum dikirim
+            const konfirmasi = confirm(
+                "Apakah data yang Anda masukkan sudah benar?"
+            );
+
+            if (!konfirmasi) {
+
+                event.preventDefault();
+
+            }
+
+        });
+
+
+        // =====================================
+        // RESET FORM
+        // =====================================
+
+        form.addEventListener("reset", function () {
+
+            setTimeout(function () {
+
+                jumlahEkstra.textContent = "0";
+
+                errorEkstra.style.display = "none";
+
+                errorTelp.style.display = "none";
+
+            }, 10);
+
+        });
+
+    </script>
+
+</body>
+
+</html>
+```

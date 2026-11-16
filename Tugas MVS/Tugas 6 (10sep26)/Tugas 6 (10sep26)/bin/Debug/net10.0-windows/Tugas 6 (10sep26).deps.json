@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Tugas 6 (10sep26)/1.0.0": {
+        "runtime": {
+          "Tugas 6 (10sep26).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas 6 (10sep26)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

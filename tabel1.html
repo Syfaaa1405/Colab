@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Daftar Buku Novel</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        table {
+            width: 90%;
+            margin: auto;
+            border-collapse: collapse;
+            background-color: white;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #333;
+            color: white;
+        }
+
+        .kategori {
+            background-color: #ddd;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>DAFTAR BUKU NOVEL</h1>
+
+    <table>
+
+        <!-- Header -->
+        <tr>
+            <th rowspan="2">No</th>
+            <th rowspan="2">Judul Novel</th>
+            <th rowspan="2">Penulis</th>
+
+            <!-- COLSPAN -->
+            <th colspan="3">Informasi Novel</th>
+
+            <th rowspan="2">Harga</th>
+        </tr>
+
+        <tr>
+            <th>Genre</th>
+            <th>Tahun</th>
+            <th>Penerbit</th>
+        </tr>
+
+
+        <!-- NOVEL DRAMA -->
+        <tr>
+            <!-- ROWSPAN -->
+            <td rowspan="3">1</td>
+
+            <td>Laskar Pelangi</td>
+            <td>Andrea Hirata</td>
+            <td>Drama</td>
+            <td>2005</td>
+            <td>Bentang Pustaka</td>
+            <td>Rp95.000</td>
+        </tr>
+
+        <tr>
+            <td>Negeri 5 Menara</td>
+            <td>A. Fuadi</td>
+            <td>Drama</td>
+            <td>2009</td>
+            <td>Gramedia</td>
+            <td>Rp88.000</td>
+        </tr>
+
+        <tr>
+            <td>Ronggeng Dukuh Paruk</td>
+            <td>Ahmad Tohari</td>
+            <td>Drama</td>
+            <td>1982</td>
+            <td>Gramedia</td>
+            <td>Rp100.000</td>
+        </tr>
+
+
+        <!-- NOVEL ROMANSA -->
+        <tr>
+            <td rowspan="3">2</td>
+
+            <td>Dilan 1990</td>
+            <td>Pidi Baiq</td>
+            <td>Romansa</td>
+            <td>2014</td>
+            <td>Pastel Books</td>
+            <td>Rp75.000</td>
+        </tr>
+
+        <tr>
+            <td>Perahu Kertas</td>
+            <td>Dee Lestari</td>
+            <td>Romansa</td>
+            <td>2009</td>
+            <td>Bentang Pustaka</td>
+            <td>Rp80.000</td>
+        </tr>
+
+        <tr>
+            <td>Ayat-Ayat Cinta</td>
+            <td>Habiburrahman El Shirazy</td>
+            <td>Romansa</td>
+            <td>2004</td>
+            <td>Republika</td>
+            <td>Rp95.000</td>
+        </tr>
+
+
+        <!-- NOVEL FANTASI -->
+        <tr>
+            <td rowspan="2">3</td>
+
+            <td>Bumi</td>
+            <td>Tere Liye</td>
+            <td>Fantasi</td>
+            <td>2014</td>
+            <td>Gramedia</td>
+            <td>Rp90.000</td>
+        </tr>
+
+        <tr>
+            <td>Bulan</td>
+            <td>Tere Liye</td>
+            <td>Fantasi</td>
+            <td>2015</td>
+            <td>Gramedia</td>
+            <td>Rp92.000</td>
+        </tr>
+
+
+        <!-- TOTAL -->
+        <tr>
+            <!-- COLSPAN -->
+            <td colspan="6"><b>Total Buku Novel</b></td>
+            <td><b>8 Buku</b></td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
