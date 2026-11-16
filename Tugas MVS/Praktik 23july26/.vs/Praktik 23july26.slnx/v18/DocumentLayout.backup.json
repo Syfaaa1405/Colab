@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Praktik 23july26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{655E8902-E218-470C-BA7B-0688DA442A66}|Praktik 23july26\\Praktik 23july26.vbproj|c:\\users\\lenovo\\source\\repos\\praktik 23july26\\praktik 23july26\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{655E8902-E218-470C-BA7B-0688DA442A66}|Praktik 23july26\\Praktik 23july26.vbproj|solutionrelative:praktik 23july26\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655E8902-E218-470C-BA7B-0688DA442A66}|Praktik 23july26\\Praktik 23july26.vbproj|c:\\users\\lenovo\\source\\repos\\praktik 23july26\\praktik 23july26\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{655E8902-E218-470C-BA7B-0688DA442A66}|Praktik 23july26\\Praktik 23july26.vbproj|solutionrelative:praktik 23july26\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Praktik 23july26\\Praktik 23july26\\Form1.vb",
+              "RelativeDocumentMoniker": "Praktik 23july26\\Form1.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Praktik 23july26\\Praktik 23july26\\Form1.vb*",
+              "RelativeToolTip": "Praktik 23july26\\Form1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-23T04:08:33.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Praktik 23july26\\Praktik 23july26\\Form1.vb",
+              "RelativeDocumentMoniker": "Praktik 23july26\\Form1.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Praktik 23july26\\Praktik 23july26\\Form1.vb [Design]*",
+              "RelativeToolTip": "Praktik 23july26\\Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-23T03:57:01.851Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

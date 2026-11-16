@@ -1,0 +1,17 @@
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\bin\Debug\net10.0-windows\Tugas 5 (27August26).exe
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\bin\Debug\net10.0-windows\Tugas 5 (27August26).deps.json
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\bin\Debug\net10.0-windows\Tugas 5 (27August26).runtimeconfig.json
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\bin\Debug\net10.0-windows\Tugas 5 (27August26).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\bin\Debug\net10.0-windows\Tugas 5 (27August26).pdb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\Tugas_5__27August26_.Form1.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\Tugas 5 (27August26).vbproj.GenerateResource.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\Tugas 5 (27August26).GeneratedMSBuildEditorConfig.editorconfig
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\Tugas 5 (27August26).AssemblyInfoInputs.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\Tugas 5 (27August26).AssemblyInfo.vb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\Tugas 5 (27August26).vbproj.CoreCompileInputs.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\Tugas 5 (27August26).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\refint\Tugas 5 (27August26).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\Tugas 5 (27August26).pdb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\Tugas 5 (27August26).genruntimeconfig.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\ref\Tugas 5 (27August26).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 5 (27August26)\Tugas 5 (27August26)\obj\Debug\net10.0-windows\Tugas_5__27August26_.Resources.resources

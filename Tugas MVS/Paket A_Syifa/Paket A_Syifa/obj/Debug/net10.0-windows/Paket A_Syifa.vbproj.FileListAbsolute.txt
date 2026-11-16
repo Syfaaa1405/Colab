@@ -1,0 +1,17 @@
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\bin\Debug\net10.0-windows\Paket A_Syifa.exe
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\bin\Debug\net10.0-windows\Paket A_Syifa.deps.json
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\bin\Debug\net10.0-windows\Paket A_Syifa.runtimeconfig.json
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\bin\Debug\net10.0-windows\Paket A_Syifa.dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\bin\Debug\net10.0-windows\Paket A_Syifa.pdb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\Paket_A_Syifa.Form1.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\Paket A_Syifa.vbproj.GenerateResource.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\Paket A_Syifa.GeneratedMSBuildEditorConfig.editorconfig
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\Paket A_Syifa.AssemblyInfoInputs.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\Paket A_Syifa.AssemblyInfo.vb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\Paket A_Syifa.vbproj.CoreCompileInputs.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\Paket A_Syifa.dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\refint\Paket A_Syifa.dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\Paket A_Syifa.pdb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\Paket A_Syifa.genruntimeconfig.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\ref\Paket A_Syifa.dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Paket A_Syifa\Paket A_Syifa\obj\Debug\net10.0-windows\Paket_A_Syifa.Resources.resources

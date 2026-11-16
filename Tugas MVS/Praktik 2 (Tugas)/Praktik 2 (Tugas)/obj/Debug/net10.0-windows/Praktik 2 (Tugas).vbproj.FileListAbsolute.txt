@@ -1,0 +1,34 @@
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\bin\Debug\net10.0-windows\Praktik 2 (Tugas).exe
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\bin\Debug\net10.0-windows\Praktik 2 (Tugas).deps.json
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\bin\Debug\net10.0-windows\Praktik 2 (Tugas).runtimeconfig.json
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\bin\Debug\net10.0-windows\Praktik 2 (Tugas).dll
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\bin\Debug\net10.0-windows\Praktik 2 (Tugas).pdb
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik_2__Tugas_.Form1.resources
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).AssemblyInfo.vb
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).dll
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\refint\Praktik 2 (Tugas).dll
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).pdb
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\ref\Praktik 2 (Tugas).dll
+C:\Users\LENOVO\source\repos\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik_2__Tugas_.Resources.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\bin\Debug\net10.0-windows\Praktik 2 (Tugas).exe
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\bin\Debug\net10.0-windows\Praktik 2 (Tugas).deps.json
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\bin\Debug\net10.0-windows\Praktik 2 (Tugas).runtimeconfig.json
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\bin\Debug\net10.0-windows\Praktik 2 (Tugas).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\bin\Debug\net10.0-windows\Praktik 2 (Tugas).pdb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik_2__Tugas_.Form1.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik_2__Tugas_.Resources.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).vbproj.GenerateResource.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).GeneratedMSBuildEditorConfig.editorconfig
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).AssemblyInfoInputs.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).AssemblyInfo.vb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).vbproj.CoreCompileInputs.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\refint\Praktik 2 (Tugas).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).pdb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\Praktik 2 (Tugas).genruntimeconfig.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Praktik 2 (Tugas)\Praktik 2 (Tugas)\obj\Debug\net10.0-windows\ref\Praktik 2 (Tugas).dll
