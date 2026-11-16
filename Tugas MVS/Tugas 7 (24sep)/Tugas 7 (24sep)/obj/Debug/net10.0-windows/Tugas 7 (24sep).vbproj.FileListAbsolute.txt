@@ -1,0 +1,19 @@
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\bin\Debug\net10.0-windows\Tugas 7 (24sep).exe
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\bin\Debug\net10.0-windows\Tugas 7 (24sep).deps.json
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\bin\Debug\net10.0-windows\Tugas 7 (24sep).runtimeconfig.json
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\bin\Debug\net10.0-windows\Tugas 7 (24sep).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\bin\Debug\net10.0-windows\Tugas 7 (24sep).pdb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas_7__24sep_.Form1.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas 7 (24sep).vbproj.GenerateResource.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas 7 (24sep).GeneratedMSBuildEditorConfig.editorconfig
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas 7 (24sep).AssemblyInfoInputs.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas 7 (24sep).AssemblyInfo.vb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas 7 (24sep).vbproj.CoreCompileInputs.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas 7 (24sep).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\refint\Tugas 7 (24sep).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas 7 (24sep).pdb
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas 7 (24sep).genruntimeconfig.cache
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\ref\Tugas 7 (24sep).dll
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas_7__24sep_.Form2.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas_7__24sep_.Form3.resources
+D:\SYIFA X RPL 1\PROJEK KLS 11\Tugas MVS\Tugas 7 (24sep)\Tugas 7 (24sep)\obj\Debug\net10.0-windows\Tugas_7__24sep_.Form4.resources

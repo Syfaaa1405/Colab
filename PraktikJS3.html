@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h2>Pengecekan Hasil Diskon</h2>
+
+    <label for="belanja">Masukkan total belanja (Rp):</label>
+    <input type="number" id="belanja" min="0" placeholder="Contoh: 120000">
+
+    <button type="button" onclick="hitung()">Hitung Diskon</button>
+
+    <p id="hasil"></p>
+
+    <script>
+        function hitung() {
+            let totalBelanja = Number(document.getElementById("belanja").value);
+
+            if (document.getElementById("belanja").value === "" || totalBelanja < 0) {
+                document.getElementById("hasil").innerHTML =
+                    "Masukkan total belanja yang valid.";
+                return;
+            }
+
+            let diskon = 0;
+            let potonganHarga = 0;
+            let totalBayar = totalBelanja;
+            let keterangan;
+
+            if (totalBelanja >= 100000) {
+                diskon = 30;
+                potonganHarga = totalBelanja * diskon / 100;
+                totalBayar = totalBelanja - potonganHarga;
+                keterangan = "Mendapatkan diskon 30%";
+            } else {
+                keterangan = "Tidak mendapatkan diskon";
+            }
+
+            document.getElementById("hasil").innerHTML =
+                "Total belanja: Rp" + totalBelanja + "<br>" +
+                "Keterangan: " + keterangan + "<br>" +
+                "Potongan harga: Rp" + potonganHarga + "<br>" +
+                "<b>Total setelah diskon: Rp" + totalBayar + "</b>";
+        }
+    </script>
+</body>
+</html>

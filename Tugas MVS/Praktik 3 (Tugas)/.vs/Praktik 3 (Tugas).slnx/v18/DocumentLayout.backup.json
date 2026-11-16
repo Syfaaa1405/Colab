@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SYIFA X RPL 1\\PROJEK KLS 11\\Tugas MVS\\Praktik 3 (Tugas)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FA97E3-89AF-F318-C67D-236ED9561726}|Praktik 3 (Tugas)\\Praktik 3 (Tugas).vbproj|d:\\syifa x rpl 1\\projek kls 11\\tugas mvs\\praktik 3 (tugas)\\praktik 3 (tugas)\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2FA97E3-89AF-F318-C67D-236ED9561726}|Praktik 3 (Tugas)\\Praktik 3 (Tugas).vbproj|solutionrelative:praktik 3 (tugas)\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FA97E3-89AF-F318-C67D-236ED9561726}|Praktik 3 (Tugas)\\Praktik 3 (Tugas).vbproj|d:\\syifa x rpl 1\\projek kls 11\\tugas mvs\\praktik 3 (tugas)\\praktik 3 (tugas)\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2FA97E3-89AF-F318-C67D-236ED9561726}|Praktik 3 (Tugas)\\Praktik 3 (Tugas).vbproj|solutionrelative:praktik 3 (tugas)\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\SYIFA X RPL 1\\PROJEK KLS 11\\Tugas MVS\\Praktik 3 (Tugas)\\Praktik 3 (Tugas)\\Form1.vb",
+              "RelativeDocumentMoniker": "Praktik 3 (Tugas)\\Form1.vb",
+              "ToolTip": "D:\\SYIFA X RPL 1\\PROJEK KLS 11\\Tugas MVS\\Praktik 3 (Tugas)\\Praktik 3 (Tugas)\\Form1.vb",
+              "RelativeToolTip": "Praktik 3 (Tugas)\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-06T02:40:32.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\SYIFA X RPL 1\\PROJEK KLS 11\\Tugas MVS\\Praktik 3 (Tugas)\\Praktik 3 (Tugas)\\Form1.vb",
+              "RelativeDocumentMoniker": "Praktik 3 (Tugas)\\Form1.vb",
+              "ToolTip": "D:\\SYIFA X RPL 1\\PROJEK KLS 11\\Tugas MVS\\Praktik 3 (Tugas)\\Praktik 3 (Tugas)\\Form1.vb [Design]",
+              "RelativeToolTip": "Praktik 3 (Tugas)\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-06T02:14:10.353Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Pendaftaran Lomba</title>
+</head>
+
+<body>
+
+    <h1>FORM PENDAFTARAN LOMBA KREATIF DIGITAL 2026</h1>
+    <p>Silakan isi data berikut dengan lengkap dan benar.</p>
+
+    <form action="http://rplcoders.com/proses.php" method="post">
+
+        <fieldset>
+            <legend>DATA PESERTA</legend>
+
+            <label>Nama Lengkap:</label><br>
+            <input type="text" id="nama" name="nama" placeholder="Isi nama lengkap anda" required>
+            <br><br>
+
+            <label>Asal Sekolah:</label><br>
+            <input type="text" id="asal" name="asalsekolah" placeholder="Isi asal sekolah anda" required>
+            <br><br>
+
+            <label>Email:</label><br>
+            <input type="email" id="email" name="email" placeholder="abc123@gmail.com" required>
+            <br><br>
+
+            <label>Nomor WhatsApp:</label><br>
+            <input type="tel" id="telepon" name="telepon" placeholder="081234567890" required>
+            <br><br>
+
+            <label for="tanggal">Tanggal Lahir:</label><br>
+            <input type="date" id="tanggal" name="tanggal_lahir" required>
+            <br><br>
+
+            <label>Jenis Kelamin:</label><br>
+
+            <input type="radio" id="laki" name="jk" value="Laki-laki" required>
+            <label for="laki">Laki-laki (L)</label>
+            <br>
+
+            <input type="radio" id="perempuan" name="jk" value="Perempuan">
+            <label for="perempuan">Perempuan (P)</label>
+            <br>
+
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+            <legend>INFORMASI LOMBA</legend>
+
+            <label for="lomba">Pilih Lomba:</label><br>
+
+            <select id="lomba" name="lomba" required>
+                <option value="">Pilih lomba</option>
+                <option value="Vlog">Vlog</option>
+                <option value="Fotografi">Fotografi</option>
+                <option value="Ilustrasi Digital">Ilustrasi Digital</option>
+                <option value="Poster Digital">Poster Digital</option>
+                <option value="Video Singkat">Video Singkat</option>
+            </select>
+
+            <br><br>
+
+            <label>Peralatan yang Digunakan:</label><br>
+
+            <input type="checkbox" id="laptop" name="peralatan[]" value="Laptop">
+            <label for="laptop">Laptop</label>
+            <br>
+
+            <input type="checkbox" id="kamera" name="peralatan[]" value="Kamera">
+            <label for="kamera">Kamera</label>
+            <br>
+
+            <input type="checkbox" id="hp" name="peralatan[]" value="Smartphone">
+            <label for="hp">Smartphone</label>
+
+            <br><br>
+
+            <label for="judul">Judul Karya:</label><br>
+            <input type="text" id="judul" name="judul_karya" required>
+
+            <br><br>
+
+            <label for="tema">Tema Karya:</label><br>
+
+            <select id="tema" name="tema" required>
+                <option value="">Pilih tema karya</option>
+                <option value="Lingkungan">Lingkungan</option>
+                <option value="Pendidikan">Pendidikan</option>
+                <option value="Budaya Indonesia">Budaya Indonesia</option>
+                <option value="Teknologi">Teknologi</option>
+                <option value="Generasi Muda">Generasi Muda</option>
+            </select>
+
+            <br><br>
+
+            <label for="deskripsi">Deskripsi Karya:</label><br>
+
+            <textarea id="deskripsi" name="deskripsi" rows="5" cols="40" placeholder="Jelaskan karya yang kamu buat..."
+                required></textarea>
+
+        </fieldset>
+
+        <br>
+
+        <button type="submit">Daftar Lomba</button>
+        <button type="reset">Reset</button>
+
+    </form>
+
+</body>
+
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>FORM PENDAFTARAN EKSTRAKULIKULER</h1>
+    <form action="http://rplcoders.com/proses.php" method="post">
+        <label>Nama Lengkap :</label><br>
+        <input type="text" name="nama" placeholder="Isi nama lengkap anda" required><br><br>
+
+        <label>Kelas :</label><br>
+        <select name="kelas" required>
+            <option value="">Kelas</option>
+            <option value="x">X</option>
+            <option value="xi">XI</option>
+            <option value="xii">XII</option>
+        </select>
+        <select name="jurusan" required>
+            <option value="">Jurusan</option>
+            <option value="rpl1">RPL 1</option>
+            <option value="rpl2">RPL 2</option>
+            <option value="tkj1">TKJ 1</option>
+            <option value="tkj2">TKJ 2</option>
+            <option value="tkj3">TKJ 3</option>
+            <option value="tkj4">TKJ 4</option>
+            <option value="dpib1">DPIB 1</option>
+            <option value="dpib2">DPIB 2</option>
+            <option value="pspt1">PSPT 1</option>
+            <option value="pspt2">PSPT 2</option>
+            <option value="dkv1">DKV 1</option>
+            <option value="dkv2">DKV 2</option>
+            <option value="kriya">KRIYA</option>
+            <option value="ulw1">ULW 1</option>
+            <option value="ulw2">ULW 2</option>
+            <option value="dpb1">DPB 1</option>
+            <option value="dpb2">DPB2</option>
+            <option value="anm">ANIMASI</option>
+            <option value="tkkr1">TKKR 1</option>
+            <option value="tkkr2">TKKR 2</option>
+        </select><br><br>
+
+        <label>Jenis Kelamin :</label><br>
+        <input type="radio" name="jk" value="laki-laki" required>Laki-laki (L)<br>
+        <input type="radio" name="jk" value="Perempuan" required>Perempuan (P)<br><br>
+
+        <label>Pilih Ekstrakulikuler :</label><br>
+        <input type="checkbox" name="ekstra[]" value="karawitan">Karawitan<br>
+        <input type="checkbox" name="ekstra[]" value="drumband">Drumband<br>
+        <input type="checkbox" name="ekstra[]" value="jurnalistik">Jurnalistik<br>
+        <input type="checkbox" name="ekstra[]" value="pmr">PMR<br>
+        <input type="checkbox" name="ekstra[]" value="tari">tari<br>
+        <input type="checkbox" name="ekstra[]" value="kir">KIR<br>
+        <input type="checkbox" name="ekstra[]" value="Pramuka">Pramuka<br>
+        <input type="checkbox" name="ekstra[]" value="musik">Musik<br>
+        <input type="checkbox" name="ekstra[]" value="voli">Voli<br>
+        <input type="checkbox" name="ekstra[]" value="basket">Basket<br>
+        <input type="checkbox" name="ekstra[]" value="futsal">Futsal<br><br>
+
+        <label>Nomor Telepon :</label><br>
+        <input type="text" name="telp" placeholder="Contoh: 081234567890" required><br><br>
+
+        <input type="submit" value="Selesai">
+        <input type="reset" value="Hapus">
+    </form>
+</body>
+
+</html>
